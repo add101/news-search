@@ -1,0 +1,26 @@
+* {
+    margin: 10px;
+    padding: 0;
+    font-family: sans-serif; }
+
+header {
+    background-color: rgb(21, 21, 133);
+    margin: 10px;
+    padding: 0px; 
+    color:white;    
+}
+
+body h6 {
+    font-weight: bold;
+}
+
+#paramaters {
+    padding: 20px;
+    border: solid grey;
+}
+
+#articles {
+    border: solid grey;
+    padding: 20px;
+}
+
